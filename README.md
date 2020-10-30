@@ -1,2 +1,3 @@
-# netflix_clone
-Pagina clone do netflix
+<h1 align="center">
+  <a href="#" alt="Netflix Clone">Netflix Clone </a>
+</h1>
